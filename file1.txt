@@ -1,1 +1,2 @@
 Hello world!
+LINE FROM USER1 - Lesson about rebaseS
